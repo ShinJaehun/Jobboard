@@ -63,6 +63,8 @@ gem 'mini_magick'
 gem 'stripe'
 gem 'trix'
 
+gem 'rails_db'
+
 group :development, :test do
   gem 'better_errors'
   gem 'guard'
