@@ -56,13 +56,13 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'simple_form'
 gem 'devise'
 gem 'bulma-rails'
-gem 'sidekiq'
 #gem 'gravatar_img_tag', github: 'mdeering/gravatar_img_tag'
 gem 'gravatar_image_tag'
 gem 'mini_magick'
 gem 'trix'
 
 # 우리나라에서 stripe 사용 불가
+#gem 'sidekiq'
 #gem 'stripe'
 #gem 'figaro'
 
